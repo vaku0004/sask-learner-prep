@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sask-learner-prep.vercel.app/sitemap.xml
