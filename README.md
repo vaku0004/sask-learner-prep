@@ -10,5 +10,5 @@ No build step: plain HTML, CSS and JavaScript.
 - `sitemap.xml`, `robots.txt`, `og.png`, `favicon.svg` — SEO and sharing
 - `vercel.json` — clean URLs (`/rules-test` instead of `/rules-test.html`)
 
-When the final domain is known, replace `https://sask-learner-prep.vercel.app`
-in all `.html` files, `sitemap.xml` and `robots.txt`.
+Live at https://www.sasklearner.study (the apex domain redirects to www).
+Not affiliated with SGI.
